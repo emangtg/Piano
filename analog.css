@@ -3,7 +3,8 @@ html, body {
 	font-size: 80%;
 	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	letter-spacing: 0.15em;	
-	background-color: #efefef;
+	background-image: url(pics/bg.jpg);
+    background-position: center;
 }
 			
 #page {
